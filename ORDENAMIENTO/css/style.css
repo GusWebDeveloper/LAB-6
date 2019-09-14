@@ -1,0 +1,73 @@
+body
+{
+    background: #026988;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+div
+{
+    padding-top: 5px;
+    background: #000;
+    margin: 10px;
+    color: white;
+    text-align: center;
+    align-content: center;
+    border: solid white 3px;
+    border-radius: 25px;
+
+}
+.menu
+{
+    width: 200px;
+    height: 50px;
+    margin-top: 25px;
+    margin-left: 250px;
+    margin-bottom: 25px;
+    background: #ffff;
+    color: #000;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+}
+.imback
+{
+    width: 200px;
+    height: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background: #ffff;
+    color: #000;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+}
+p
+{
+    margin: auto;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+span
+{
+    margin: auto;
+    padding: 20px;
+   display: block;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    background: rgb(250, 250, 250);
+    color: #000;
+    border-radius: 25px;
+    
+}
+footer{
+    margin: auto;
+    padding: 20px;
+   display: block;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    background: rgb(70, 2, 77);
+    color: #000;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffff;
+}
